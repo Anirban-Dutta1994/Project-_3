@@ -2,7 +2,7 @@
 
 Power bi end-to-end project
 
-Papoll Hospitals: Work & Leads Workflow 
+Papoll Hospitals: Work & Leads Data Analysis
 
 **Project Summary**:
 
